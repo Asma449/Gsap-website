@@ -42,7 +42,7 @@ gsap-website/
 
 1. Clone the repository
 ```
-git clone https://github.com/your-username/gsap-website.git
+git clone https://github.com/Asma449/gsap-website.git
 ```
 
 2. Open project folder
