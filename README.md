@@ -53,19 +53,14 @@ git clone https://github.com/Asma449/gsap-website.git
 
 ## 🌐 Live Demo
 
-(Add your GitHub Pages link here)
+https://asma449.github.io/Gsap-website/
 
 ---
 
 ## 📸 Screenshots
 
-(Add images here)
+![Project Screenshot](images/image.png)
 
----
-
-## 🎥 Demo Video
-
-(Add video here)
 
 ---
 
